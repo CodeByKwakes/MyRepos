@@ -1,0 +1,21 @@
+{
+  "globalDependencies": {
+    "babel-core": "registry:dt/babel-core#6.7.0+20160423062108",
+    "bluebird": "registry:dt/bluebird#3.0.0+20160928162057",
+    "body-parser": "registry:dt/body-parser#0.0.0+20160619023215",
+    "compression": "registry:dt/compression#0.0.0+20160501162003",
+    "cors": "registry:dt/cors#0.0.0+20160708202709",
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "lodash": "registry:dt/lodash#4.14.0+20161004174455",
+    "mongoose": "registry:dt/mongoose#4.5.9+20161010180758",
+    "morgan": "registry:dt/morgan#1.7.0+20160524142355",
+    "request": "registry:dt/request#0.0.0+20160726020908",
+    "request-promise": "registry:dt/request-promise#4.1.0+20161013074249"
+  },
+  "globalDevDependencies": {
+    "nock": "registry:dt/nock#8.0.0+20160909083304",
+    "sinon": "registry:dt/sinon#1.16.0+20160924120326",
+    "supertest": "registry:dt/supertest#1.1.0+20160724070541",
+    "supertest-as-promised": "registry:dt/supertest-as-promised#2.0.2+20160802164024"
+  }
+}

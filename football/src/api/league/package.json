@@ -1,0 +1,6 @@
+{
+  "name": "league",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./league.router.js"
+}

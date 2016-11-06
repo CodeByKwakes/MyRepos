@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/199acf46b3b6c8e047417df20e551719c5c4979d/supertest-as-promised/supertest-as-promised.d.ts",
+    "raw": "registry:dt/supertest-as-promised#2.0.2+20160802164024",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/199acf46b3b6c8e047417df20e551719c5c4979d/supertest-as-promised/supertest-as-promised.d.ts"
+  }
+}
