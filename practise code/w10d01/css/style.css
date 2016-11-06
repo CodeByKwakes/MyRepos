@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+}
+
+ul {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  padding: 0;
+  border: 2px solid black;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  width: 96px;
+  height: 96px;
+  float: left;
+  border: 2px solid black;
+  line-height: 96px;
+  font-size: 40px;
+}
+
+button {
+  display: inline-block;
+}
+
+li:hover {
+  background-color: red;
+}
